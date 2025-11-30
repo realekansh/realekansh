@@ -18,6 +18,10 @@ I love building practical things — Telegram bots, Android apps, and compact we
 ## Roles & Skills
 Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, Designer, Gamer
 
+## Tech Stacks 
+</br>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,mongodb,java,html,py,c,ts,js,fastapi&perline=10)]
 
 ##  Quote of the Day
 <p align="center">
@@ -46,6 +50,7 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=realekansh&theme=radical&bg_color=0d1117&hide_border=true" />
 </p>
+
 
 
 

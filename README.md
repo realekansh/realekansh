@@ -11,23 +11,9 @@
 
 ## Who is notrealekansh?
 
-Hello there! I'm **Ekansh**, also known online as **WingAndroid** and **not_real_ekansh**. I've been passionate about **technology** ever since I was a kid. Over the years, I've explored Coding, Gaming, Android App Development, and more. I've also contributed as a **Theme Designer** and **Community Moderator** for **Xiaomi Global**.
+Hey there! I'm **Ekansh Bhavik** (aka notrealekansh / WingAndroid). I’ve been passionate about technology since I was a kid. Over the years I’ve explored coding, gaming, Android app development, and more. I’ve contributed as a Theme Designer and as a Community Moderator for Xiaomi Global.
 
-# About Me
-
-**Name**: Ekansh Bhavik (Ekansh)
-
-**Nickname**: WingAndroid / EK4XSH 
-
-**Age**: 16 
-
-**Pronoun**: He/Him
-
-**Country**: India 
-
-**State**: Uttar Pradesh 
-
-**Timezone**: IST (UTC+5:30)
+I love building practical things — Telegram bots, Android apps, and compact web tools. I focus on minimal UI/UX and ship projects that actually help people. I also help run and moderate active communities around theming and Android development.
 
 ## Roles & Skills
 Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, Designer, Gamer
@@ -60,4 +46,5 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=real-ekansh&theme=radical&bg_color=0d1117&hide_border=true" />
 </p>
+
 

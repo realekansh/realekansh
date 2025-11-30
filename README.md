@@ -27,24 +27,25 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 ##  GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=real-ekansh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-ekansh&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realekansh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realekansh&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=real-ekansh&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realekansh&theme=radical&hide_border=true" alt="Streak Stats"/>
 </p>
 
 ##  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=real-ekansh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realekansh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ##  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=real-ekansh&theme=radical&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realekansh&theme=radical&bg_color=0d1117&hide_border=true" />
 </p>
+
 
 

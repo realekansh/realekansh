@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=real-ekansh&label=%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/real-ekansh?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/realekansh?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="GitHub Followers"/>
 </p>
 
 ## Who is notrealekansh?

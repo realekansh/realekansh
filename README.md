@@ -1,6 +1,4 @@
-
 ![Banner](https://raw.githubusercontent.com/real-ekansh/real-ekansh/main/banner.jpg)
-
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=real-ekansh&label=%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
@@ -9,47 +7,75 @@
   <img src="https://img.shields.io/github/followers/realekansh?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="GitHub Followers"/>
 </p>
 
-## Who is notrealekansh?
+## Ekansh Bhavik (notrealekansh)
 
-Hey there! I'm **Ekansh Bhavik** (aka notrealekansh / WingAndroid). I’ve been passionate about technology since I was a kid. Over the years I’ve explored coding, gaming, Android app development, and more. I’ve contributed as a Theme Designer and as a Community Moderator for Xiaomi Global.
+I build practical, minimal tools focused on real-world usability.
 
-I love building practical things — Telegram bots, Android apps, and compact web tools. I focus on minimal UI/UX and ship projects that actually help people. I also help run and moderate active communities around theming and Android development.
+- **Focus**: Open-source tooling, automation, and lightweight systems  
+- **Interests**: Linux ecosystems, self-hosting, developer workflows  
+- **Approach**: Build → test → refine → ship  
 
-## Roles & Skills
-Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, Designer, Gamer
+---
 
-## Tech Stacks 
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,mongodb,java,html,py,js&perline=4)]
+## Focus Areas
 
-##  Quote of the Day
+- Open Source Tooling  
+- Linux & System Customization  
+- Automation (Bots, Scripts)  
+- Web Utilities  
+
+---
+
+## Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=linux,git,github,docker,bash,python,js,html,mongodb,java,vscode&perline=4)]()
+
+---
+
+## Featured Projects
+
+### 🔹Media Downloader Bot 
+
+→ **Link**: https://github.com/realekansh/Downloader-Bot
+
+### 🔹 Face Approval System  
+
+→ **Link**: https://github.com/realekansh/FaceApprovalSystem
+
+### 🔹 Federation Appeals Bot  
+A Telegram Bot that helps you manage appeals for your Federation
+→ **Link**: https://github.com/realekansh/Fedbot
+
+### 🔹 Hyprland Rice  
+Minimal system toolkit focused on performance and control  
+→ **Link**: https://github.com/realekansh/HyperCore  
+
+### 🔹 HyperCore  
+A modular, distro-aware Hyprland setup with a safe installer, configs, and full documentation.  
+→ **Link**: https://github.com/realekansh/HyperCore
+
+### 🔹 Post Management Bot  
+Telegram post management bot by Team HyperTech for drafting, previewing, publishing, and scheduling channel posts with SQLite-backed delivery tracking.  
+→ **Link**: https://github.com/realekansh/PostManager-Bot
+
+### 🔹 Shell Bot
+A bot to evaluate Python code and bash commands inside telegram.  
+→ **Link**: https://github.com/realekansh/Shell-Bot
+
+> More projects available in repositories ↓
+
+---
+
+## Where to Go Next
+
+- 📦 **All Projects** → https://github.com/realekansh?tab=repositories  
+- 🌐 **Portfolio** → https://realekansh.zone.id
+- 📢 **Updates / Experiments** → https://t.me/WingsBasement 
+
+---
+
+## GitHub Stats (Optional)
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realekansh&show_icons=true&hide_border=true" height="150"/>
 </p>
-
-##  GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realekansh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realekansh&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realekansh&theme=radical&hide_border=true" alt="Streak Stats"/>
-</p>
-
-##  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realekansh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
-##  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realekansh&theme=radical&bg_color=0d1117&hide_border=true" />
-</p>
-
-
-
-
-

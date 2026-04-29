@@ -77,5 +77,9 @@ A bot to evaluate Python code and bash commands inside telegram.
 ## GitHub Stats (Optional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realekansh&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realekansh&show_icons=true&theme=tokyonight)](https://github.com/realekansh/realekansh" height="150"/>
 </p>
+
+
+
+

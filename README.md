@@ -69,7 +69,7 @@ A bot to evaluate Python code and bash commands inside telegram.
 ## Where to Go Next
 
 - 📦 **All Projects** → https://github.com/realekansh?tab=repositories  
-- 🌐 **Portfolio** → https://realekansh.zone.id
+- 🌐 **Portfolio** → realekansh.xyz
 - 📢 **Updates / Experiments** → https://t.me/WingsBasement 
 
 ---

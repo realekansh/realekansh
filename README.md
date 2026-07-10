@@ -35,12 +35,8 @@ I build practical, minimal tools focused on real-world usability.
 ## Featured Projects
 
 ### 🔹Media Downloader Bot 
-
+A Telegram Bot that helps you to download any media into telegram.
 → **Link**: https://github.com/realekansh/Downloader-Bot
-
-### 🔹 Face Approval System  
-
-→ **Link**: https://github.com/realekansh/FaceApprovalSystem
 
 ### 🔹 Federation Appeals Bot  
 A Telegram Bot that helps you manage appeals for your Federation
@@ -69,7 +65,7 @@ A bot to evaluate Python code and bash commands inside telegram.
 ## Where to Go Next
 
 - 📦 **All Projects** → https://github.com/realekansh?tab=repositories  
-- 🌐 **Portfolio** → realekansh.xyz
+- 🌐 **Portfolio** → https://realekansh.xyz
 - 📢 **Updates / Experiments** → https://t.me/WingsBasement 
 
 ---

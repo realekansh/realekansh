@@ -112,8 +112,7 @@ const NOTREALEKANSH = {
     height="180"
     src="https://github-readme-stats.shion.dev/api?username=realekansh&show_icons=true&theme=transparent&title_color=eba0ac&text_color=DEDEDE&icon_color=fab387&hide_border=true"
     alt="GitHub Stats"
-  />
-  <img
+  />  <img
     height="180"
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=realekansh&layout=compact&title_color=eba0ac&text_color=DEDEDE&bg_color=00000000&hide_border=true"
     alt="Top Languages"

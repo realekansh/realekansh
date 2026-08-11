@@ -101,6 +101,7 @@ const NOTREALEKANSH = {
 
 - **All Projects** → https://github.com/realekansh?tab=repositories  
 - **Portfolio** → https://realekansh.xyz
+- **Blogs** → https://realekansh.xyz/blogs
 - **Updates / Experiments** → https://t.me/unfiledtabs 
 
 ---

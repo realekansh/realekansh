@@ -81,17 +81,20 @@ const NOTREALEKANSH = {
 
 ## Featured Projects
 
-🔹Media Downloader Bot→ https://github.com/realekansh/Downloader-Bot
+🔹**Media Downloader Bot**→ https://github.com/realekansh/Downloader-Bot
 
-🔹 Federation Appeals Bot → https://github.com/realekansh/Fedbot
+🔹 **Federation Appeals Bot** → https://github.com/realekansh/Fedbot
 
-🔹 Hyprland Rice → https://github.com/realekansh/HyperCore  
+🔹 **Hyprland Rice** → https://github.com/realekansh/HyperCore  
 
-🔹 HyperCore →  https://github.com/realekansh/HyperCore
+🔹 **HyperCore** →  https://github.com/realekansh/HyperCore
 
-🔹 Post Management Bot → https://github.com/realekansh/PostManager-Bot
+🔹 **HyperGriot** →  https://github.com/realekansh/HyperGriot
 
-🔹 Shell Bot → https://github.com/realekansh/Shell-Bot
+
+🔹 **Post Management Bot** → https://github.com/realekansh/PostManager-Bot
+
+🔹 **Shell Bot** → https://github.com/realekansh/Shell-Bot
 
 > More projects available in repositories ↓
 

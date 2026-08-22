@@ -46,6 +46,7 @@ const NOTREALEKANSH = {
                 "GNOME",
                 "COSMIC",
                 "Cinnamon",
+                "MATE",
                 "XFCE"
             ],
 

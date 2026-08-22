@@ -82,20 +82,16 @@ const NOTREALEKANSH = {
 
 ## Featured Projects
 
-🔹**Media Downloader Bot**→ https://github.com/realekansh/Downloader-Bot
-
-🔹 **Federation Appeals Bot** → https://github.com/realekansh/Fedbot
-
-🔹 **Hyprland Rice** → https://github.com/realekansh/HyperCore  
-
-🔹 **HyperCore** →  https://github.com/realekansh/HyperCore
-
-🔹 **HyperGriot** →  https://github.com/realekansh/HyperGriot
-
-
-🔹 **Post Management Bot** → https://github.com/realekansh/PostManager-Bot
-
-🔹 **Shell Bot** → https://github.com/realekansh/Shell-Bot
+- **Hyper Downloader Bot**→ https://github.com/realekansh/Downloader-Bot 
+- **Hyper Federation Appeals Bot** → https://github.com/realekansh/Fedbot 
+- **Hyprland Rice** → https://github.com/realekansh/HyperCore 
+- **HyperCore** →  https://github.com/realekansh/HyperCore 
+- **Hyper Griot** →  https://github.com/realekansh/HyperGriot  
+- **Post Management Bot** → https://github.com/realekansh/PostManager-Bot 
+- **Shell Bot** → https://github.com/realekansh/Shell-Bot 
+- **Kira** → https://github.com/realekansh/Kira
+- **NeoVim Configuration** → https://github.com/realekansh/nvimdots 
+- **File Organizer** → https://github.com/realekansh/FileOrganizer
 
 > More projects available in repositories ↓
 

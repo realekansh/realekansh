@@ -1,4 +1,19 @@
 ![Banner](https://raw.githubusercontent.com/real-ekansh/real-ekansh/main/banner.jpg)
+
+<p align="center">
+  <img
+    src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgithub-stats-api-kohl.vercel.app%2Fapi%2Fgithub-stats-badge%3Fmetric%3Dprofile_views"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgithub-stats-api-kohl.vercel.app%2Fapi%2Fgithub-stats-badge%3Fmetric%3Dfollowers"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgithub-stats-api-kohl.vercel.app%2Fapi%2Fgithub-stats-badge%3Fmetric%3Drepositories"
+    alt="Repositories"
+  />
+</p>
 <p align="center">
 
 ## Hey there, I'm Ekansh!

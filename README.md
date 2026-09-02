@@ -138,13 +138,5 @@ const NOTREALEKANSH = {
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=realekansh&bg_color=00000000&color=DEDEDE&line=eba0ac&point=fab387&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
-
 
 

@@ -107,6 +107,7 @@ const NOTREALEKANSH = {
 - **Kira** → https://github.com/realekansh/Kira
 - **NeoVim Configuration** → https://github.com/realekansh/nvimdots 
 - **File Organizer** → https://github.com/realekansh/FileOrganizer
+- **GitHub Stats API** → https://github.com/realekansh/github-stats-api
 
 > More projects available in repositories ↓
 

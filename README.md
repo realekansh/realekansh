@@ -1,10 +1,6 @@
-![Banner](https://raw.githubusercontent.com/real-ekansh/real-ekansh/main/banner.jpg)
+![Banner](https://raw.githubusercontent.com/realekansh/realekansh/main/banner.jpg)
 
 <p align="center">
-  <img
-    src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgithub-stats-api-kohl.vercel.app%2Fapi%2Fgithub-stats-badge%3Fmetric%3Dprofile_views"
-    alt="Profile Views"
-  />
   <img
     src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgithub-stats-api-kohl.vercel.app%2Fapi%2Fgithub-stats-badge%3Fmetric%3Dfollowers"
     alt="Followers"
@@ -18,7 +14,7 @@
 
 ## Hey there, I'm Ekansh!
 
-I'm a 16-year-old student, developer, and designer from India who enjoys building practical tools that solve real problems—especially the small ones that often aren't so small.
+I'm a 17-year-old student, developer, and designer from India who enjoys building practical tools that solve real problems—especially the small ones that often aren't so small.
 
 I'm also an operating systems enthusiast. I enjoy exploring different operating systems, Linux distributions, desktop environments, and the technologies behind them.
 
